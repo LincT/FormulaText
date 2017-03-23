@@ -1,0 +1,9 @@
+c:\users\linc\documents\visual studio 2015\Projects\FormulaText\FormulaText\bin\Debug\FormulaText.exe.config
+c:\users\linc\documents\visual studio 2015\Projects\FormulaText\FormulaText\bin\Debug\FormulaText.exe
+c:\users\linc\documents\visual studio 2015\Projects\FormulaText\FormulaText\bin\Debug\FormulaText.pdb
+c:\users\linc\documents\visual studio 2015\Projects\FormulaText\FormulaText\obj\Debug\FormulaText.csprojResolveAssemblyReference.cache
+c:\users\linc\documents\visual studio 2015\Projects\FormulaText\FormulaText\obj\Debug\FormulaText.Form1.resources
+c:\users\linc\documents\visual studio 2015\Projects\FormulaText\FormulaText\obj\Debug\FormulaText.Properties.Resources.resources
+c:\users\linc\documents\visual studio 2015\Projects\FormulaText\FormulaText\obj\Debug\FormulaText.csproj.GenerateResource.Cache
+c:\users\linc\documents\visual studio 2015\Projects\FormulaText\FormulaText\obj\Debug\FormulaText.exe
+c:\users\linc\documents\visual studio 2015\Projects\FormulaText\FormulaText\obj\Debug\FormulaText.pdb
